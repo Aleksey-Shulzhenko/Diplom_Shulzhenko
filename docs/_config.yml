@@ -1,0 +1,6 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+title: Розробка комп'ютерної гри в жанрі Racing
+description: Кваліфікаційна робота (ФМБ) · 121 Інженерія програмного забезпечення · ВСП «ППФК НТУ «ХПІ»

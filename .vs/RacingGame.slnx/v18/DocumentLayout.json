@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Racing\\RacingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\scenefader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\scenefader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\racestarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\racestarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\progresstracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\progresstracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\loadingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\levelselectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\levelselectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\keybindingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\keybindingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\hoversound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\hoversound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\finishtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\finishtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\dontdestroyaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\dontdestroyaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\carspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\carspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\carcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\carcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\racing\\racinggame\\assets\\scenes\\scripts\\caraudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\caraudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\SettingsManager.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\SettingsManager.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\SettingsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:30:27.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneFader.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\SceneFader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\SceneFader.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\SceneFader.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\SceneFader.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:30:12.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RaceStarter.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\RaceStarter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\RaceStarter.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\RaceStarter.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\RaceStarter.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:29:57.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgressTracker.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\ProgressTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\ProgressTracker.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\ProgressTracker.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\ProgressTracker.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAAPEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:29:31.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\MenuManager.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:29:29.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoadingManager.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\LoadingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\LoadingManager.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\LoadingManager.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\LoadingManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:29:14.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LevelSelectionManager.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\LevelSelectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\LevelSelectionManager.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\LevelSelectionManager.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\LevelSelectionManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:28:59.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KeyBindingsManager.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\KeyBindingsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\KeyBindingsManager.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\KeyBindingsManager.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\KeyBindingsManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvzQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:28:42.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:28:10.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HoverSound.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\HoverSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\HoverSound.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\HoverSound.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\HoverSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:28:10.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FinishTrigger.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\FinishTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\FinishTrigger.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\FinishTrigger.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\FinishTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:27:47.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DontDestroyAudio.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\DontDestroyAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\DontDestroyAudio.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\DontDestroyAudio.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\DontDestroyAudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:27:32.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Checkpoint.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\Checkpoint.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Checkpoint.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:27:14.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarSpawner.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\CarSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\CarSpawner.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\CarSpawner.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\CarSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:26:34.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\CarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\CarController.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\CarController.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\CarController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAQwMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:25:58.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarCamera.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\CarCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\CarCamera.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\CarCamera.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\CarCamera.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:25:04.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarAudio.cs",
+              "DocumentMoniker": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\CarAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\CarAudio.cs",
+              "ToolTip": "D:\\Racing\\RacingGame\\Assets\\Scenes\\Scripts\\CarAudio.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\CarAudio.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:21:04.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

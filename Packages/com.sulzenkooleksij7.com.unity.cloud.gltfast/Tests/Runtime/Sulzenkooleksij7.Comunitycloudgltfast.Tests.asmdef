@@ -1,0 +1,11 @@
+{
+    "name": "Sulzenkooleksij7.Comunitycloudgltfast.Tests",
+    "references": [
+        "Sulzenkooleksij7.Comunitycloudgltfast"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

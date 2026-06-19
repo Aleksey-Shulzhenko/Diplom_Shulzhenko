@@ -1,0 +1,10 @@
+{
+    "name": "Sulzenkooleksij7.Comunitycloudgltfast.Editor",
+    "references": [
+      "Sulzenkooleksij7.Comunitycloudgltfast"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

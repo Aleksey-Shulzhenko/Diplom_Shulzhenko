@@ -1,0 +1,60 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="KeyBindingsManager">
+			<method name="BackToMenu"/>
+			<method name="SetBrake"/>
+			<method name="SetGas"/>
+			<method name="SetLeft"/>
+			<method name="SetRight"/>
+		</type>
+		<type fullname="LevelSelectionManager">
+			<method name="BackToMenu"/>
+			<method name="SelectCar1"/>
+			<method name="SelectCar2"/>
+			<method name="SelectCar3"/>
+			<method name="SelectTrack1"/>
+			<method name="SelectTrack2"/>
+			<method name="SelectTrack3"/>
+			<method name="StartRace"/>
+		</type>
+		<type fullname="MenuManager">
+			<method name="ExitGame"/>
+			<method name="OpenSettings"/>
+			<method name="StartGame"/>
+		</type>
+		<type fullname="ProgressTracker">
+			<method name="BackToMenu"/>
+			<method name="BackToMenu"/>
+			<method name="BackToMenu"/>
+			<method name="RestartRace"/>
+			<method name="RestartRace"/>
+			<method name="RestartRace"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.RenderPipelines.Core.Runtime" ignoreIfMissing="1">
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerButton">
+			<method name="OnAction"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField">
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerPanel">
+			<method name="OnScrollbarClicked"/>
+			<method name="OnScrollbarClicked"/>
+			<method name="ResetDebugManager"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerUIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+	</assembly>
+</linker>

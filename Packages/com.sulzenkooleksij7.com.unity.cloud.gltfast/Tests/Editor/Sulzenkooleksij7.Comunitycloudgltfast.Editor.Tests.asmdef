@@ -1,0 +1,14 @@
+{
+    "name": "Sulzenkooleksij7.Comunitycloudgltfast.Editor.Tests",
+    "references": [
+        "Sulzenkooleksij7.Comunitycloudgltfast.Editor",
+        "Sulzenkooleksij7.Comunitycloudgltfast"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
